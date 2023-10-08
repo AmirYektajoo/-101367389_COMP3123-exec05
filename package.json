@@ -1,0 +1,18 @@
+{
+  "name": "101367389_comp3123-exec05",
+  "version": "1.0.0",
+  "description": "101367389_COMP3123-exec05",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongodb": "^6.1.0",
+    "mongoose": "^7.6.0"
+  }
+}
